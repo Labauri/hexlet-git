@@ -1,7 +1,7 @@
 import _ from 'lodash';
 
 function getLastElement(array) {
-    return _.last(array);
+  return _.last(array);
 }
 
 export default getLastElement;
